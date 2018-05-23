@@ -38,7 +38,7 @@ cd mean
 npm install  
 npm start  
 ```
-If all the packages and modules installed successfully, your default web browser will open and you can see the default MEAN application at `http://localhost:3000`. This is the default port unless you change that manually.
+If all the packages and modules installed successfully, your default web browser will open and you can see the default MEAN application at `http://localhost:3000` (or see terminal logs, it might be 4040). This is the default port unless you change that manually.
 
 ### Deploy on a public cloud
 A pre-configured server with a stable version of MEAN.IO is available for you to start developing quickly.
